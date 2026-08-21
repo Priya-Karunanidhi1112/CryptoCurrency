@@ -3,7 +3,7 @@
 ### Project Overview
 
 This project detects three crypto trading signals, performs predictive pricing using machine learning, and integrates macroeconomic on-chain liquidity indicators to analyze performance. 
-The system streams high-resolution historical market candles automatically using the **Kaggle API** and provides an interactive web dashboard powered by **Streamlit** to filter signals and evaluate predictive accuracy in real-time. 
+The system streams high-resolution historical market candles (these are visual representations used on a chart to show the price movement of an asset, like a cryptocurrency, over a specific period of time (e.g., 1 hour, 1 day)) automatically using the **Kaggle API** and provides an interactive web dashboard powered by **Streamlit** to filter signals and evaluate predictive accuracy in real-time. 
 
 ### Features
 
